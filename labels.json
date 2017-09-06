@@ -1,0 +1,31 @@
+[
+  { "name": "P-Critical", "color": "#ff8080" },
+  { "name": "P-High", "color": "#ffcc80" },
+  { "name": "P-Medium", "color": "#ffff80" },
+  { "name": "P-Low", "color": "#73e573" },
+
+  { "name": "E-Hard", "color": "#ff8080" },
+  { "name": "E-Medium", "color": "#ffcc80" },
+  { "name": "E-Mentored", "color": "#ffff80" },
+  { "name": "E-Easy", "color": "#73e573" },
+
+  { "name": "S-Won't Fix", "color": "#ff8080" },
+  { "name": "S-Abandoned", "color": "#ff8080" },
+  { "name": "S-Help-Wanted", "color": "#ffcc80" },
+  { "name": "S-Blocked", "color": "#ffcc80" },
+  { "name": "S-On-Hold", "color": "#ffcc80" },
+  { "name": "S-Work-In-Progress", "color": "#ffff80" },
+  { "name": "S-Pending", "color": "#ffff80" },
+  { "name": "S-Review-Needed", "color": "#ffff80" },
+  { "name": "S-Revision-Needed", "color": "#ffff80" },
+  { "name": "S-Done", "color": "#73e573" },
+  { "name": "S-Accepted", "color": "#73e573" },
+  { "name": "S-Backlog", "color": "#73a3e5" },
+
+  { "name": "T-Bug", "color": "#ff8080" },
+  { "name": "T-Enhancement", "color": "#ffcc80" },
+  { "name": "T-Maintenance", "color": "#ffff80" },
+  { "name": "T-Question", "color": "#73e573" },
+  { "name": "T-Tracking-Issue", "color": "#73a3e5" },
+  { "name": "T-Community", "color": "#bf73e5" }
+]
